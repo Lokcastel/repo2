@@ -40,6 +40,3 @@ namespace ConsoleApp196
         public void speedUp() => currSpeed += 10;
     }
 }
-
-
-// commento xx git
